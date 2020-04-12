@@ -5,6 +5,18 @@ nav_order: 99
 
 # Microchip MPLAB® Harmony 3 MPLAB X plugin Release Notes
 
+## MPLAB X plugin Release v3.4.2
+
+### New Features
+
+* Changed default user directory to <user home>\Harmony3.
+
+### Dependencies
+
+* [MPLAB® X IDE v5.x](https://www.microchip.com/mplab/mplab-x-ide)
+
+# Microchip MPLAB® Harmony 3 MPLAB X plugin Release Notes
+
 ## MPLAB X plugin Release v3.4.1
 
 ### New Features
