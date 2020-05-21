@@ -5,6 +5,16 @@ nav_order: 99
 
 # Microchip MPLAB® Harmony 3 MPLAB X plugin Release Notes
 
+## MPLAB X plugin Release v3.5.0
+
+### New Features
+
+* Improved new project wizard to match new features coming with [MHC v3.4.0](https://github.com/Microchip-MPLAB-Harmony/mhc/releases/tag/v3.4.0).
+
+### Dependencies
+
+* [MPLAB® X IDE v5.40](https://www.microchip.com/mplab/mplab-x-ide)
+
 ## MPLAB X plugin Release v3.4.2
 
 ### New Features
