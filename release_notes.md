@@ -5,6 +5,18 @@ nav_order: 99
 
 # Microchip MPLAB® Harmony 3 MPLAB X plugin Release Notes
 
+## MPLAB X plugin Release v3.5.1
+
+### New Features
+
+* Added support to validate the selected remote path with existing framework setup for Content Manager. 
+* Added support to avoid launching Content Manager when MHC is active.
+* Fixed issue of launching multiple instances of Content Manager.
+
+### Dependencies
+
+* [MPLAB® X IDE v5.40](https://www.microchip.com/mplab/mplab-x-ide)
+
 ## MPLAB X plugin Release v3.5.0
 
 ### New Features
