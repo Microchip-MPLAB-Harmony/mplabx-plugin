@@ -5,6 +5,16 @@ nav_order: 99
 
 # Microchip MPLAB® Harmony 3 MPLAB X plugin Release Notes
 
+## MPLAB X plugin Release v3.6.4
+
+### New Features
+
+* Fixed dependency list by removing unnecessary dependencies.
+
+### Dependencies
+
+* [MPLAB® X IDE v5.45](https://www.microchip.com/mplab/mplab-x-ide)
+
 ## MPLAB X plugin Release v3.6.3
 
 ### New Features
